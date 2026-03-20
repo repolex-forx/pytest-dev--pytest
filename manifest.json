@@ -1916,6 +1916,69 @@
         "blob/2c4bd376ce853583b86d52de980965c8d4a7b476.nq.gz",
         "blob/087ce286214d1eb78c029a0c1c76393b0b574f76.nq.gz",
         "blob/fd52490e9a014b562b31f028394a515999b4d719.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/7fabb3df69fa06f57b2b0c4eb2ec5ef7325b396c.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7fabb3df69fa06f57b2b0c4eb2ec5ef7325b396c.nq.gz",
+      "repolex": "aggregate/repolex/7fabb3df69fa06f57b2b0c4eb2ec5ef7325b396c.nq.gz",
+      "dep": "dep/7fabb3df69fa06f57b2b0c4eb2ec5ef7325b396c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sets",
+          "githubOrg": "danijar",
+          "githubRepo": "sets"
+        },
+        {
+          "packageName": "Image",
+          "githubOrg": "francescortiz",
+          "githubRepo": "image"
+        },
+        {
+          "packageName": "servicemanager",
+          "githubOrg": "hmrc",
+          "githubRepo": "service-manager"
+        },
+        {
+          "packageName": "exception",
+          "githubOrg": "tdhopper",
+          "githubRepo": "exception"
+        },
+        {
+          "packageName": "compiler",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde"
+        },
+        {
+          "packageName": "coverage",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy"
+        },
+        {
+          "packageName": "greenlet",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet"
+        },
+        {
+          "packageName": "repr",
+          "githubOrg": "svetlyak40wt",
+          "githubRepo": "python-repr"
+        },
+        {
+          "packageName": "thread",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread"
+        },
+        {
+          "packageName": "initpkg",
+          "githubOrg": "wlongxiang",
+          "githubRepo": "initpkg"
+        },
+        {
+          "packageName": "uconf",
+          "githubOrg": "rbarrois",
+          "githubRepo": "uconf"
+        }
       ]
     }
   ],
