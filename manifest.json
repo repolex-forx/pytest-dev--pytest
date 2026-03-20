@@ -3222,6 +3222,74 @@
         "blob/2c4bd376ce853583b86d52de980965c8d4a7b476.nq.gz",
         "blob/087ce286214d1eb78c029a0c1c76393b0b574f76.nq.gz",
         "blob/fd52490e9a014b562b31f028394a515999b4d719.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/4f50ae13364037f581c417d9acbb56b1a30f69b4.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4f50ae13364037f581c417d9acbb56b1a30f69b4.nq.gz",
+      "repolex": "aggregate/repolex/4f50ae13364037f581c417d9acbb56b1a30f69b4.nq.gz",
+      "dep": "dep/4f50ae13364037f581c417d9acbb56b1a30f69b4.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "greenlet",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet"
+        },
+        {
+          "packageName": "sets",
+          "githubOrg": "danijar",
+          "githubRepo": "sets"
+        },
+        {
+          "packageName": "exception",
+          "githubOrg": "tdhopper",
+          "githubRepo": "exception"
+        },
+        {
+          "packageName": "initpkg",
+          "githubOrg": "wlongxiang",
+          "githubRepo": "initpkg"
+        },
+        {
+          "packageName": "compiler",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde"
+        },
+        {
+          "packageName": "repr",
+          "githubOrg": "svetlyak40wt",
+          "githubRepo": "python-repr"
+        },
+        {
+          "packageName": "Image",
+          "githubOrg": "francescortiz",
+          "githubRepo": "image"
+        },
+        {
+          "packageName": "coverage",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy"
+        },
+        {
+          "packageName": "uconf",
+          "githubOrg": "rbarrois",
+          "githubRepo": "uconf"
+        },
+        {
+          "packageName": "winpath",
+          "githubOrg": "git-albertomarin",
+          "githubRepo": "winpath"
+        },
+        {
+          "packageName": "servicemanager",
+          "githubOrg": "hmrc",
+          "githubRepo": "service-manager"
+        },
+        {
+          "packageName": "thread",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread"
+        }
       ]
     },
     {
