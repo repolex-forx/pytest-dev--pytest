@@ -3980,6 +3980,74 @@
         "blob/2c4bd376ce853583b86d52de980965c8d4a7b476.nq.gz",
         "blob/087ce286214d1eb78c029a0c1c76393b0b574f76.nq.gz",
         "blob/fd52490e9a014b562b31f028394a515999b4d719.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/f522838c77470b0f7d8bcdc7ed6b4e3f0407e422.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f522838c77470b0f7d8bcdc7ed6b4e3f0407e422.nq.gz",
+      "repolex": "aggregate/repolex/f522838c77470b0f7d8bcdc7ed6b4e3f0407e422.nq.gz",
+      "dep": "dep/f522838c77470b0f7d8bcdc7ed6b4e3f0407e422.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "winpath",
+          "githubOrg": "git-albertomarin",
+          "githubRepo": "winpath"
+        },
+        {
+          "packageName": "thread",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread"
+        },
+        {
+          "packageName": "compiler",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde"
+        },
+        {
+          "packageName": "servicemanager",
+          "githubOrg": "hmrc",
+          "githubRepo": "service-manager"
+        },
+        {
+          "packageName": "initpkg",
+          "githubOrg": "wlongxiang",
+          "githubRepo": "initpkg"
+        },
+        {
+          "packageName": "uconf",
+          "githubOrg": "rbarrois",
+          "githubRepo": "uconf"
+        },
+        {
+          "packageName": "greenlet",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet"
+        },
+        {
+          "packageName": "exception",
+          "githubOrg": "tdhopper",
+          "githubRepo": "exception"
+        },
+        {
+          "packageName": "coverage",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy"
+        },
+        {
+          "packageName": "repr",
+          "githubOrg": "svetlyak40wt",
+          "githubRepo": "python-repr"
+        },
+        {
+          "packageName": "sets",
+          "githubOrg": "danijar",
+          "githubRepo": "sets"
+        },
+        {
+          "packageName": "Image",
+          "githubOrg": "francescortiz",
+          "githubRepo": "image"
+        }
       ]
     },
     {
