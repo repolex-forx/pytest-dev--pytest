@@ -7098,6 +7098,39 @@
         "blob/087ce286214d1eb78c029a0c1c76393b0b574f76.nq.gz",
         "blob/82dce22d4c1cec8445140cbdb9ab7bb29368eec8.nq.gz",
         "blob/fd52490e9a014b562b31f028394a515999b4d719.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/222a08ec03e1ea3879d4f96c6fe02a8fdec2f3b9.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/222a08ec03e1ea3879d4f96c6fe02a8fdec2f3b9.nq.gz",
+      "repolex": "aggregate/repolex/222a08ec03e1ea3879d4f96c6fe02a8fdec2f3b9.nq.gz",
+      "dep": "dep/222a08ec03e1ea3879d4f96c6fe02a8fdec2f3b9.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "winpath",
+          "githubOrg": "git-albertomarin",
+          "githubRepo": "winpath"
+        },
+        {
+          "packageName": "sets",
+          "githubOrg": "danijar",
+          "githubRepo": "sets"
+        },
+        {
+          "packageName": "compiler",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde"
+        },
+        {
+          "packageName": "uconf",
+          "githubOrg": "rbarrois",
+          "githubRepo": "uconf"
+        },
+        {
+          "packageName": "greenlet",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet"
+        }
       ]
     },
     {
