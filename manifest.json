@@ -14950,29 +14950,39 @@
       "dep": "dep/9d5b313aad3f5610356385aa6b7f007362abc3c0.nq.gz",
       "dependencies": [
         {
+          "packageName": "winpath",
+          "packageVersion": "202002.2.0",
+          "githubOrg": "git-albertomarin",
+          "githubRepo": "winpath",
+          "githubCommit": "HEAD"
+        },
+        {
           "packageName": "uconf",
+          "packageVersion": "0.4.1",
           "githubOrg": "rbarrois",
-          "githubRepo": "uconf"
-        },
-        {
-          "packageName": "greenlet",
-          "githubOrg": "python-greenlet",
-          "githubRepo": "greenlet"
-        },
-        {
-          "packageName": "compiler",
-          "githubOrg": "xiaojieluo",
-          "githubRepo": "vlde"
+          "githubRepo": "uconf",
+          "githubCommit": "41e8d2384ff3bf900c372e371ff8b40990ff4322"
         },
         {
           "packageName": "sets",
+          "packageVersion": "0.3.2",
           "githubOrg": "danijar",
-          "githubRepo": "sets"
+          "githubRepo": "sets",
+          "githubCommit": "HEAD"
         },
         {
-          "packageName": "winpath",
-          "githubOrg": "git-albertomarin",
-          "githubRepo": "winpath"
+          "packageName": "greenlet",
+          "packageVersion": "3.3.2",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet",
+          "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
+        },
+        {
+          "packageName": "compiler",
+          "packageVersion": "0.2.0",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde",
+          "githubCommit": "HEAD"
         }
       ]
     },
