@@ -1,0 +1,50 @@
+{
+  "commit": "bb6e9848b3a8770b199a085d3341d498bd7b50d1",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/bb6e9848b3a8770b199a085d3341d498bd7b50d1.nq.gz",
+      "size_bytes": 9967999
+    },
+    "dep": {
+      "path": "dep/bb6e9848b3a8770b199a085d3341d498bd7b50d1.nq.gz",
+      "size_bytes": 706
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "greenlet",
+      "packageVersion": "3.3.2",
+      "githubOrg": "python-greenlet",
+      "githubRepo": "greenlet",
+      "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
+    },
+    {
+      "packageName": "winpath",
+      "packageVersion": "202002.2.0",
+      "githubOrg": "git-albertomarin",
+      "githubRepo": "winpath",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "uconf",
+      "packageVersion": "0.4.1",
+      "githubOrg": "rbarrois",
+      "githubRepo": "uconf",
+      "githubCommit": "41e8d2384ff3bf900c372e371ff8b40990ff4322"
+    },
+    {
+      "packageName": "compiler",
+      "packageVersion": "0.2.0",
+      "githubOrg": "xiaojieluo",
+      "githubRepo": "vlde",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "sets",
+      "packageVersion": "0.3.2",
+      "githubOrg": "danijar",
+      "githubRepo": "sets",
+      "githubCommit": "HEAD"
+    }
+  ]
+}

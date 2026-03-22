@@ -31234,6 +31234,49 @@
         "blob/82dce22d4c1cec8445140cbdb9ab7bb29368eec8.nq.gz",
         "blob/d70d0b03af428ff17b5f97b78383de56e07ee2cf.nq.gz",
         "blob/fd52490e9a014b562b31f028394a515999b4d719.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/bb6e9848b3a8770b199a085d3341d498bd7b50d1.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/bb6e9848b3a8770b199a085d3341d498bd7b50d1.nq.gz",
+      "repolex": "aggregate/repolex/bb6e9848b3a8770b199a085d3341d498bd7b50d1.nq.gz",
+      "dep": "dep/bb6e9848b3a8770b199a085d3341d498bd7b50d1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "greenlet",
+          "packageVersion": "3.3.2",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet",
+          "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
+        },
+        {
+          "packageName": "winpath",
+          "packageVersion": "202002.2.0",
+          "githubOrg": "git-albertomarin",
+          "githubRepo": "winpath",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "uconf",
+          "packageVersion": "0.4.1",
+          "githubOrg": "rbarrois",
+          "githubRepo": "uconf",
+          "githubCommit": "41e8d2384ff3bf900c372e371ff8b40990ff4322"
+        },
+        {
+          "packageName": "compiler",
+          "packageVersion": "0.2.0",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "sets",
+          "packageVersion": "0.3.2",
+          "githubOrg": "danijar",
+          "githubRepo": "sets",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],
