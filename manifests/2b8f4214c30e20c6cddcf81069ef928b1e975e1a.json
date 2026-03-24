@@ -1,0 +1,43 @@
+{
+  "commit": "2b8f4214c30e20c6cddcf81069ef928b1e975e1a",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/2b8f4214c30e20c6cddcf81069ef928b1e975e1a.nq.gz",
+      "size_bytes": 7443364
+    },
+    "dep": {
+      "path": "dep/2b8f4214c30e20c6cddcf81069ef928b1e975e1a.nq.gz",
+      "size_bytes": 620
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "compiler",
+      "packageVersion": "0.2.0",
+      "githubOrg": "xiaojieluo",
+      "githubRepo": "vlde",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "argcomplete",
+      "packageVersion": "3.6.3",
+      "githubOrg": "kislyuk",
+      "githubRepo": "argcomplete",
+      "githubCommit": "fae5549ac1e89ec05de7d11ff33f540c74fc3b18"
+    },
+    {
+      "packageName": "zope",
+      "packageVersion": "6.0.0b2",
+      "githubOrg": "zopefoundation",
+      "githubRepo": "Zope",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
