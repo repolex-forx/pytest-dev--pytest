@@ -58315,6 +58315,42 @@
         "blob/fd52490e9a014b562b31f028394a515999b4d719.nq.gz",
         "blob/ce4fbf133cc5a96d38405e72572781054b13e342.nq.gz",
         "blob/7c0027849e8cfb17a9ff52de8111be06574e6d09.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/f9927e457b2f3f4a010287dcdecc180d66753c9b.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f9927e457b2f3f4a010287dcdecc180d66753c9b.nq.gz",
+      "repolex": "aggregate/repolex/f9927e457b2f3f4a010287dcdecc180d66753c9b.nq.gz",
+      "dep": "dep/f9927e457b2f3f4a010287dcdecc180d66753c9b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "argcomplete",
+          "packageVersion": "3.6.3",
+          "githubOrg": "kislyuk",
+          "githubRepo": "argcomplete",
+          "githubCommit": "fae5549ac1e89ec05de7d11ff33f540c74fc3b18"
+        },
+        {
+          "packageName": "compiler",
+          "packageVersion": "0.2.0",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "zope",
+          "packageVersion": "6.0.0b2",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "Zope",
+          "githubCommit": "HEAD"
+        }
       ]
     },
     {
